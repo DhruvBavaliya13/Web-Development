@@ -42,3 +42,9 @@ https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/fbb08470-5f5
 Mobile Screen:![Mobile_Screen](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/37c0b851-7fb9-4b84-a885-ee54d62231e7)
 Laptop Screen:![Screenshot 2023-12-27 140527](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/85236816-2421-41d3-b3ca-126134ab59ef)
 
+
+**Link the Page(L1.html, L2.html) Output:**
+![Screenshot 2023-12-27 141049](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/77b2a8b5-35ee-443e-bc71-651abca7667b)
+![Screenshot 2023-12-27 141113](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/13b9c88a-7bc1-4cb2-978a-a243a46f66a3)
+
+
