@@ -31,4 +31,6 @@ All Project and some work which completed of about HMTL, CSS, JavaScript and whi
 
 **SPINNER(second.html) Output:**
 https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/fbb08470-5f58-4e1c-ae66-0b0a76840dc0
+![Spiner](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/1de81f1e-7420-42ea-a296-31a9b3a4bcd2)
+
 
