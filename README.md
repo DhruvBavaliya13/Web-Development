@@ -23,3 +23,7 @@ All Project and some work which completed of about HMTL, CSS, JavaScript and whi
 **LED.html Output:**
 ![LED](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/a60b6355-fbec-4091-8f2c-db068d7d4094)
 
+
+**Flash LED(Lab1.html) Output:**
+![Flash](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/f25c6b96-f998-4519-9762-7f27818d3cbc)
+![Flash2](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/2c911592-5767-4afb-a869-ac79637e3c7b)
