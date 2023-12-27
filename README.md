@@ -34,3 +34,10 @@ https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/fbb08470-5f5
 ![Spiner](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/1de81f1e-7420-42ea-a296-31a9b3a4bcd2)
 
 
+**Moving CUBE(MiniProject.html) Output:**
+![Moving CUBE](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/23b138b3-4d2e-4bec-87c7-4d5b2728f52a)
+
+
+
+
+
