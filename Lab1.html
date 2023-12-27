@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Swiper demo</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"
+    />
+    <!-- Link Swiper's CSS -->
+    <link
+      rel="stylesheet"
+      href="first.css"
+    />
+
+    <!-- Demo styles -->
+    <style>
+      html,
+      body {
+        position: relative;
+        height: 100%;
+      }
+
+      body {
+        background: #eee;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+
+      .swiper {
+        width: 300px;
+        height: 300px;
+        padding: 50px;
+      }
+
+      .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Swiper -->
+    <div class="swiper mySwiper" onmouseenter="f1()">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+        	<img src="1.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="2.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="3.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="4.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="5.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="6.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="7.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="8.jpg">
+        </div>
+        <div class="swiper-slide">
+        	<img src="10.jpg">
+        </div>
+      </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+    <center>
+    	<h1><p id="p1" "></p></h1>
+    </center>
+
+    <!-- Swiper JS -->
+    <script src="first.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+      var counter=0;
+      var swiper = new Swiper(".mySwiper", {
+        effect: "flip",
+        grabCursor: true,
+        pagination: {
+          el: ".swiper-pagination",
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+        
+      });
+      // alert("Hello");
+      
+      function f1() {
+      	var counter=0;
+		for(var i=0;i<=16;i++){
+		  	
+		  	setInterval(f1,1000);
+      	}	
+      }
+
+    </script>
+  </body>
+</html>
