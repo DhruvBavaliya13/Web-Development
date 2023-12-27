@@ -9,3 +9,7 @@ All Project and some work which completed of about HMTL, CSS, JavaScript and whi
 
 **Swiper IMG(first.css, first.js, Lab1.html) Output:**
 ![Swiper Demo](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/efa50f37-98f0-444c-b125-1573bd9503e3)
+
+**MCQ QUIZ with Timer(12002040601011_25MCQs.html, demo2.html) Output:**
+![QUIZ1](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/8301f3b5-3102-4a2d-85e1-cd379d524ee3)
+![QUIZ2](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/f98792d4-2a81-4655-b03c-e7de00c3357d)
