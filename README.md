@@ -38,6 +38,7 @@ https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/fbb08470-5f5
 ![Moving CUBE](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/23b138b3-4d2e-4bec-87c7-4d5b2728f52a)
 
 
-
-
+**Screen wise Changes(Lec1.html) Output:**
+Mobile Screen:![Mobile_Screen](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/37c0b851-7fb9-4b84-a885-ee54d62231e7)
+Laptop Screen:![Screenshot 2023-12-27 140527](https://github.com/DhruvBavaliya13/Web-Development/assets/134765636/85236816-2421-41d3-b3ca-126134ab59ef)
 
