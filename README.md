@@ -1,39 +1,39 @@
 # 🌐 Web Development Projects
-Welcome to the **Web Development Projects** repository! This collection showcases various projects and exercises focusing on **HTML**, **CSS**, and **JavaScript**, aimed at enhancing web development skills
+Welcome to the **Web Development Projects** repository! This collection showcases various projects and exercises focusing on **HTML**, **CSS**, and **JavaScript**, aimed at enhancing web development skills
 
 ## 📁 Project List
 
 1. **Overlay Image Project**
    - **Files**: `12002040601011_Ovrlayimg.html`
-   - **Description** A project demonstrating image overlay techniques using HTML and CS
+   - **Description** A project demonstrating image overlay techniques using HTML and CS
    - **Live Demo**: [Overlay Image Project](https://overlayimg.tiiny.site)
 
 2. **P3.html**
    - **Files**: `P3.html`
-   - **Description** An HTML page showcasing advanced layout design
-   - **Screenshot**: ![P3.html Output]![1](https://github.com/user-attachments/assets/de176e21-fb63-4874-b184-089106205d27)
+   - **Description** An HTML page showcasing advanced layout design
+   - **Screenshot**: ![1](https://github.com/user-attachments/assets/de176e21-fb63-4874-b184-089106205d27)
 
 3. **P4d.html**
    - **Files**: `P4d.html`
-   - **Description** A project featuring interactive card designs with CSS animation
-   - **Screenshot**: ![P4d.html Output]![Pd4_html](https://github.com/user-attachments/assets/2f7cdda7-bbfe-40f1-b3cd-8bf433cefd7d)
+   - **Description** A project featuring interactive card designs with CSS animation
+   - **Screenshot**: ![Pd4_html](https://github.com/user-attachments/assets/2f7cdda7-bbfe-40f1-b3cd-8bf433cefd7d)
 
 4. **Swiper Image Gallery**
    - **Files**: `first.css`, `first.js`, `Lab1.html`
-   - **Description** An image gallery implementing swipe functionality using JavaScrip
-   - **Screenshot**: ![Swiper Image Gallery]![Swiper_img](https://github.com/user-attachments/assets/db210ddb-528b-4771-b10d-4ef41a669adb)
+   - **Description** An image gallery implementing swipe functionality using JavaScrip
+   - **Screenshot**: ![Swiper_img](https://github.com/user-attachments/assets/db210ddb-528b-4771-b10d-4ef41a669adb)
 
 5. **MCQ Quiz with Timer**
    - **Files**: `12002040601011_25MCQs.html`, `demo2.html`
-   - **Description** A multiple-choice quiz application featuring a countdown time
+   - **Description** A multiple-choice quiz application featuring a countdown time
    - **Screenshots**: 
-     - ![Quiz Interface]![MCQ_Quiz](https://github.com/user-attachments/assets/6f3b8d30-0ee9-4c90-989a-7634e606af9f)
-     - ![Quiz Timer]![MCQ_Res](https://github.com/user-attachments/assets/4a47f83b-06ff-499e-bf60-4d17896c468e)
+     - ![Quiz Interface](https://github.com/user-attachments/assets/6f3b8d30-0ee9-4c90-989a-7634e606af9f)
+     - ![Quiz Timer](https://github.com/user-attachments/assets/4a47f83b-06ff-499e-bf60-4d17896c468e)
 
 6. **LED Control Interface**
    - **File**: `LED.html`
-   - **Description** A web interface simulating LED control using JavaScrip
-   - **Screenshot**: ![LED Control Interface]![LED_html](https://github.com/user-attachments/assets/d7e223b7-8566-43ec-a919-c96063e62b46)
+   - **Description** A web interface simulating LED control using JavaScrip
+   - **Screenshot**: ![LED Control Interface](https://github.com/user-attachments/assets/d7e223b7-8566-43ec-a919-c96063e62b46)
 
 7. **Flash LED**
    - **File**: `Lab1.html`
