@@ -58,9 +58,9 @@ Welcome to the **Web Development Projects** repository! This collection showcase
 
 ## 🛠️ Technologies Used
 
-- *HTML5*: For structuring web conte.
-- *CSS3*: For styling and layout desig.
-- *JavaScript*: For interactive functionaliti.
+- *HTML5*: For structuring web content.
+- *CSS3*: For styling and layout design.
+- *JavaScript*: For interactive functionalities.
 
 ## 🚀 Getting Started
 
@@ -73,7 +73,7 @@ To explore these projects locally:
    ```
 
 2. **Open the desired project**:
-  - Navigate to the project directory and open the `.html` file in your preferred web browr.
+  - Navigate to the project directory and open the `.html` file in your preferred web browr.
 
 ## 🤝 Contributing
 
